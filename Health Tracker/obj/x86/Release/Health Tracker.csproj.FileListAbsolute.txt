@@ -1,0 +1,21 @@
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\bin\Release\AdventureWorksOrdersViewer.exe.config
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\bin\Release\AdventureWorksOrdersViewer.exe
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\bin\Release\AdventureWorksOrdersViewer.pdb
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\bin\Release\WPFToolkit.dll
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\bin\Release\WPFToolkit.pdb
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\CreateUser.baml
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\userWindow.baml
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\CreateUser.g.cs
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\MainWindow.g.cs
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\userWindow.g.cs
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\App.g.cs
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\AdventureWorksOrdersViewer_MarkupCompile.cache
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\AdventureWorksOrdersViewer_MarkupCompile.lref
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\MainWindow.baml
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\AdventureWorksOrdersViewer.g.resources
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\AdventureWorksOrdersViewer.Properties.Resources.resources
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\Health Tracker.csproj.GenerateResource.Cache
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\AdventureWorksOrdersViewer.exe
+C:\Users\Juan\AppData\Local\Temporary Projects\AdventureWorksOrdersViewer\obj\x86\Release\AdventureWorksOrdersViewer.pdb
